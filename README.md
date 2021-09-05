@@ -8,8 +8,9 @@ In each game, there are four levels. The first three levels are against computer
 Also, after the third level, the game is turning to Bluffing Pisti where the players can make bluff claims in order to get more points. If the opponent player/computer challenges, then there are two situations: If bluff is true, that is, the player's card has the same rank with the face-up card, the player will score 20 points for the Pisti. Otherwise, the opponent will gain the same point. If the opponent does not challenge, the player of the card automatically scores a Pisti. The same algorithm applies for Double Pisti case.
 
 ### Contributors
-- Batuhan Gökçe
 - Nur Gizem Altıntaş
+- Batuhan Gökçe
+
 
 ### Database Schema 
 - Can be found on [documents/ERDiagram.jpg](./documents/ERDiagram.jpg)
